@@ -83,5 +83,3 @@ Contributions are welcome! Please fork the repo and submit a pull request.
 
 J Manasa Reddy
 
-* GitHub: [@your-username](https://github.com/your-username)
-* LinkedIn: [Your Profile](https://linkedin.com/in/your-profile)
